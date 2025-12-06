@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "scheduler",
+    "slug": "scheduler",
+    "version": "1.0.0",
+    "platforms": ["android","web"],
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
